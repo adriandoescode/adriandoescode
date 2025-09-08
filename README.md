@@ -1,4 +1,4 @@
-# Hi, I'm Adrian Krzysiak
+# Hi, I'm Adrian Krzysiak 👋
 
 I am a proud future student in Computer Engineering at the University of Illinois Urbana-Champaign (UIUC).
 
